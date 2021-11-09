@@ -8,3 +8,10 @@ Repositório de demonstração das funcionalidades básicas do GitHub para a Tur
 
 Este repositório será de curta duração e será utilizado apenas para demonstrar as funcionalidades básicas de Git e GitHub
 
+### Instalação da aplicação
+
+```javascript
+
+console.log("Hello world!");
+
+```
