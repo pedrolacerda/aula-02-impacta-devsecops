@@ -1,15 +1,10 @@
+![image](https://user-images.githubusercontent.com/609076/141023494-ad044fab-7501-46da-93b4-65e9b31c1ba5.png)
+
 # Aula 02 Impacta DevSecOps
 
 Repositório de demonstração das funcionalidades básicas do GitHub para a Turma de DevSecOps do curso de Cyber Security
 
-- Item 1
-- Item 2
-- Item 3
+## Uso do repositório
 
-- [ ] Check 1
-- [ ] Check 2
-- [ ] Check 3
+Este repositório terá uma curta duração e será utilizado apenas para demonstrar as funcionalidades básicas de Git e GitHub
 
-* Bullet 1
-* Bullet 2
-* Bullet 3
