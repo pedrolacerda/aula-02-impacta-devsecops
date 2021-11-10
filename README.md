@@ -10,8 +10,14 @@ Este repositório será de curta duração e será utilizado apenas para demonst
 
 ### Instalação da aplicação
 
-```javascript
-
-console.log("Hello world!");
-
+```html
+<!DOCTYPE html>
+<head>
+    <meta charset="UTF-8">
+  <title>Hello world</title>
+  <script>
+    console.log("Hello world!");
+  </script>
+</head>
+</html>
 ```
