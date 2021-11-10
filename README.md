@@ -12,6 +12,7 @@ Este repositório será de curta duração e será utilizado apenas para demonst
 
 ```html
 <!DOCTYPE html>
+<html>
 <head>
     <meta charset="UTF-8">
   <title>Hello world</title>
