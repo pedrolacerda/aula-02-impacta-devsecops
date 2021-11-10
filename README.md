@@ -6,7 +6,7 @@ Repositório de demonstração das funcionalidades básicas do GitHub para a Tur
 
 ## Uso do repositório
 
-
+Inseri novamente a linha 9
 
 ### Instalação da aplicação
 
